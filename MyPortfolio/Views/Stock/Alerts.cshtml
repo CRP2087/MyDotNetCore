@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MyPortfolio.Models.Stock>
+@{
+    ViewData["Title"] = "Alerts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var count = 1;
+}
+
+<h1>Alerts</h1>
+<style>
+    .image-box {
+        width: calc(33.333% - 20px); /* Three boxes per row with some space */
+        box-sizing: border-box;
+        text-align: center;
+        border: 1px solid #ddd;
+        padding: 15px;
+        border-radius: 10px;
+    }
+    .image-box img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <!-- Image Box -->
+        @foreach(var item in Model)
+        {
+            <div class="col-md-4 col-sm-6">
+                <div class="image-box">
+                    <img src="path-to-your-image.jpg" alt="Product @count" class="img-fluid">
+                    <h5>@item.Symbol</h5>
+                    <p>Product description goes here.</p>
+                </div>
+            </div>
+            count++;
+        }
+    </div>
+</div>

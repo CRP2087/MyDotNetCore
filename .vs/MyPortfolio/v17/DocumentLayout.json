@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\views\\stock\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\stock\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\services\\stockpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\services\\stockpriceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\views\\stock\\alerts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\stock\\alerts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\chandrakant parmar\\source\\repos\\myportfolio\\myportfolio\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171F49D5-BFD1-4AF3-9DE6-C904A6F069B3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Custom.css",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\Custom.css",
+              "RelativeDocumentMoniker": "MyPortfolio\\wwwroot\\css\\Custom.css",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\Custom.css",
+              "RelativeToolTip": "MyPortfolio\\wwwroot\\css\\Custom.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-22T11:17:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Stock\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Stock\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Stock\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Stock\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T10:54:01.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Controllers\\StockController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:57:50.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Program.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Program.cs",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Program.cs",
+              "RelativeToolTip": "MyPortfolio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:05:08.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Stock\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Stock\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Stock\\Edit.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Stock\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T10:13:49.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T06:06:58.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockPriceService.cs",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Services\\StockPriceService.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Services\\StockPriceService.cs",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Services\\StockPriceService.cs",
+              "RelativeToolTip": "MyPortfolio\\Services\\StockPriceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:03:26.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T11:30:46.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alerts.cshtml",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Stock\\Alerts.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Stock\\Alerts.cshtml",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Stock\\Alerts.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Stock\\Alerts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T11:44:16.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:34:07.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:58:36.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T11:31:17.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\CHANDRAKANT PARMAR\\source\\repos\\MyPortfolio\\MyPortfolio\\Models\\AppUser.cs",
+              "RelativeToolTip": "MyPortfolio\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:08:35.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

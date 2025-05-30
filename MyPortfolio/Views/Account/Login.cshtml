@@ -1,0 +1,83 @@
+﻿@model MyPortfolio.Models.AppUser;
+@{
+    ViewData["Title"] = "Login";
+    var loginMessage = TempData["LoginStatus"] as string;
+    var isSuccess = TempData["LoginSuccess"] != null && (bool)TempData["LoginSuccess"];
+    Layout = "_Layout";
+}
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-5">
+            <div class="card shadow p-4">
+                <h3 class="text-center mb-4">Login</h3>
+
+                <form method="post">
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label">Username</label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label">Password</label>
+                        <input asp-for="Password" type="password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary w-100">Login</button>
+                </form>
+
+                <div class="text-center mt-3">
+                    <a href="#">Forgot Password?</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@* <div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-5">
+            <i class="bi bi-lock-fill text-primary fs-1"></i>
+            <h3 class="fw-bold login-title">Welcome Back</h3>
+            <p class="text-muted login-title">Please sign in to your account</p>
+        </div>
+
+        <form asp-action="Login" method="post">
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label">Email address</label>
+                <input asp-for="Email" class="form-control" placeholder="Enter your email" />
+                <span asp-validation-for="Email" class="text-danger small"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label">Password</label>
+                <input asp-for="Password" type="password" class="form-control" placeholder="Enter your password" />
+                <span asp-validation-for="Password" class="text-danger small"></span>
+            </div>
+
+            
+
+            <div class="d-grid mb-2">
+                <button type="submit" class="btn btn-primary w-100">🔐 Login</button>
+            </div>
+
+            <div class="text-center">
+                <a asp-action="Register" class="text-decoration-none">Don't have an account? Register</a>
+            </div>
+        </form>
+    </div>
+</div> *@
+@if (!string.IsNullOrEmpty(loginMessage))
+{
+    <script>
+        window.onload = function () {
+            alert('@loginMessage');
+
+        @* Redirect if login was successful *@
+        @if (isSuccess)
+        {
+            <text>window.location.href = '@Url.Action("Index", "Stock")'; </text>
+        }
+    };
+    </script>
+}
